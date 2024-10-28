@@ -12,3 +12,26 @@
 .nav-link{
     color: white !important;
 }
+h6, h1, h4, h3, h5{
+    font-family:Poppins;
+}
+
+button{
+    border: none;
+    background-color: none;
+}
+.head{
+    background-color: #926FF6 !important;
+}
+h6{
+    color: #FFE074 !important;
+
+}
+h1{
+    color: #FFFFFF !important;
+
+}
+h5{
+    color: #FFFFFF !important;
+
+}
