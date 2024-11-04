@@ -1,3 +1,8 @@
+body{
+    background-image: radial-gradient(52.52% 39.17% at 50% 66.95%, #F3F3F3 0%, #FFFFFF 100%) !important;
+
+
+}
 .header{
     background-color: #926FF6;
 }
@@ -16,22 +21,122 @@ h6, h1, h4, h3, h5{
     font-family:Poppins;
 }
 
-button{
-    border: none;
-    background-color: none;
-}
+
 .head{
     background-color: #926FF6 !important;
+
+    
+    text-align: center;
 }
-h6{
+.head h6{
     color: #FFE074 !important;
 
 }
 h1{
     color: #FFFFFF !important;
-
+    
+    
 }
 h5{
     color: #FFFFFF !important;
+
+}
+.more-btn{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border:2px solid #FFFFFF;
+    
+}
+.btn2{
+    width: 10px;
+    height: 10px;
+    color: #FFFFFF !important;
+    border-bottom: 2px solid white;
+    border-right: 2px solid white;
+    position: relative;
+    rotate: 45deg;
+    top: 15px;
+    left: 18px;
+}
+.d2 h6{
+    color: #FFE074 !important;
+    top: 100px;
+    left: 100px;
+}
+.d2 h2{
+    color: #4F4F4F !important;
+
+}
+
+.d2{
+    text-align: start;
+}
+img{
+    border-radius: 5px;
+}
+
+.d3 h3{
+    color: #FFE074 !important;
+}
+.d3 h1{
+    color: #4F4F4F !important;
+}
+.p111{
+    color: #F3849F !important;
+}
+.buttons button{
+    padding:5px 15px;
+    border: none;
+    background-color: white;
+    border-radius: 20%;
+    color:#828282 !important;
+    
+}
+
+.buttons button.active{
+    background-color: #F3849F !important;
+    color: #F3849F !important;
+    border: #F3849F;
+    border-radius: 20px;
+    color:#F3F3F3 !important;
+}
+.graphic{
+    background-color: #FFFFFF !important;
+
+}
+.last{
+    background-color: #F7EEFF !important;
+    width: 100%;
+
+}
+.h4{
+    color: #FFAE00 !important;
+
+}
+.h1{
+    color: #4F4F4F !important;
+
+}
+.card{
+    border: none;
+}
+.img-grid img{
+    width: 100%;
+    height: 350px;
+}
+.mycards .card{
+    background-color: transparent !important;
+}
+.card-title1{
+    color: #F3849F !important;
+
+}
+.card-title2{
+    color: #926FF6 !important;
+
+}
+.card-title3{
+    color: #79CFFF !important;
 
 }
